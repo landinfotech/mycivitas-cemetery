@@ -49,8 +49,10 @@ nav:
                   - Quickstart: user/quickstart/index.md
                   - Guide:
                           - user/guide/index.md
+                          - Map Page: user/guide/map.md
                   - Manual :
                           - user/manual/index.md
+                          - Map Page: user/manual/map.md
         - Administrators:
                 - administrator/index.md
                 - Guide:

@@ -14,3 +14,6 @@ license: This program is free software; you can redistribute it and/or modify it
 # User guide
 <!-- Narrative Instructions on how to use the product/platform -->
 <!-- Replace all of the titles with relevant titles -->
+
+* **[Map Page](./map.md):** Ths page will give you the walkthrough of the map page.
+ 
